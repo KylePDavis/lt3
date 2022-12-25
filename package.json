@@ -1,0 +1,8 @@
+{
+  "name": "lt3",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Kyle P Davis <me@KylePDavis.com>",
+  "license": "MIT"
+}
